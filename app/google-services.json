@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37851750358",
+    "project_id": "eshop-b93a4",
+    "storage_bucket": "eshop-b93a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37851750358:android:445fe01fd2550037588e77",
+        "android_client_info": {
+          "package_name": "com.ncaptual.eshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCStenPsoV0JOHoxSmJLr1gECQ-5fJdJMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
